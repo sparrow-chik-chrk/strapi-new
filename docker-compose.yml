@@ -3,7 +3,7 @@ services:
   strapi:
     container_name: strapi
     build:
-      context: ..
+      context: .
       dockerfile: ${DOCKERFILE}
     image: strapi:latest
     restart: unless-stopped
