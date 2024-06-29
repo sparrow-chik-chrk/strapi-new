@@ -1,0 +1,20 @@
+{
+  "content-manager.containers.ListPage.table-headers.composer": "Композитор",
+  "content-manager.containers.ListPage.table-headers.name": "Назва",
+  "content-manager.containers.ListPage.table-headers.text": "Заголовок",
+  "content-manager.containers.ListPage.table-headers.title": "Заголовок",
+  "content-manager.containers.ListPage.table-headers.spectacle": "Вистава",
+  "content-manager.containers.ListPage.table-headers.date": "Дата",
+  "content-manager.containers.ListPage.table-headers.datetime": "Дата",
+  "content-manager.containers.ListPage.table-headers.is_canceled": "Відмінено",
+  "content-manager.containers.ListPage.table-headers.is_resheduled": "Перенесено",
+  "content-manager.containers.ListPage.table-headers.resheduled_datetime": "Дата перенесення",
+  "content-manager.containers.ListPage.table-headers.slug": "SEF URL",
+  "content-manager.containers.ListPage.table-headers.phone": "Телефон",
+  "content-manager.containers.ListPage.table-headers.email": "Email",
+  "content-manager.containers.ListPage.table-headers.genre": "Жанр",
+  "content-manager.containers.ListPage.table-headers.end": "Завершено",
+  "content-manager.containers.ListPage.table-headers.winners": "Переможці",
+  "content-manager.containers.ListPage.table-headers.send_mail": "Відправлено на пошту?",
+  "content-manager.containers.ListPage.table-headers.page": "Сторінка"
+}

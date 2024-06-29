@@ -32,6 +32,7 @@ services:
       - strapi
     depends_on:
       - strapiDB
+      - maildev
 
   strapiDB:
     container_name: strapiDB
@@ -49,6 +50,13 @@ services:
 
     ports:
       - "5432:5432"
+    networks:
+      - strapi
+  maildev:
+    image: maildev/maildev
+    ports:
+      - "1080:1080"
+      - "1025:1025"
     networks:
       - strapi
 
